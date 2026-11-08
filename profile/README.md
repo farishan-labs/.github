@@ -19,6 +19,8 @@ iterate alongside.
 
 ## What lives here
 
+- [`landscape`](https://github.com/farishan-labs/landscape) — research-driven map of the AI dev-tools market (agents, harnesses, terminals, cockpits, choosers). Open data, verified, dated. The lab is research-first.
+
 - Reliable, everyday tools I genuinely depend on
 - Shared tooling, skills, and infrastructure for agent workflows
 - Open-source contributions and experiments worth keeping
