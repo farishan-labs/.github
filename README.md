@@ -1,2 +1,10 @@
 # .github
-Org profile and community health files
+
+Organization profile and community health files for
+[farishan-labs](https://github.com/farishan-labs).
+
+- Org profile (shown on the GitHub organization page):
+  [`profile/README.md`](./profile/README.md)
+- Default branch: `main`
+
+_Maintained by Faris Han and agents._
