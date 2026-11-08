@@ -19,7 +19,7 @@ iterate alongside.
 
 ## What lives here
 
-- [`landscape`](https://github.com/farishan-labs/landscape) — research-driven map of the AI dev-tools market (agents, harnesses, terminals, cockpits, choosers). Open data, verified, dated. The lab is research-first.
+- [`principles`](https://github.com/farishan-labs/principles) — canonical, versioned principles (P-001..P-022) with top/core/extended tiers, format research, and management tooling (render, validate, version). Source of truth for cockpit and every tool. Research-first: each principle is backed by a research doc before it becomes a rule.
 
 - Reliable, everyday tools I genuinely depend on
 - Shared tooling, skills, and infrastructure for agent workflows
