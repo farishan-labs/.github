@@ -1,4 +1,4 @@
-# Farishan Labs
+# Faris Han Labs
 
 A personal lab for building reliable, everyday tools — with zero vendor
 lock-in. Shared openly, contributed back to the community.
