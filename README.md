@@ -5,6 +5,5 @@ Organization profile and community health files for
 
 - Org profile (shown on the GitHub organization page):
   [`profile/README.md`](./profile/README.md)
-- Default branch: `main`
 
 _Maintained by Faris Han and agents._

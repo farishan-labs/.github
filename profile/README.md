@@ -15,7 +15,7 @@ iterate alongside.
 
 - [`cockpit`](https://github.com/farishan-labs/cockpit) — the human+AI control
   plane. The first thing installed and opened when operating the lab. An
-  aggregator, not a replacement: it reuses herdr, pi, opencode, nakama, tmux.
+  aggregator, not a replacement: it reuses herdr, pi, opencode, nakama (ahmadrosid), tmux.
 
 ## What lives here
 
@@ -32,17 +32,12 @@ personal account [`@farishan`](https://github.com/farishan).
 
 ## Principles
 
-- **Never reinvent exact wheels.** Reuse, aggregate, or extend. Build only
-  the glue and the control plane.
-- **Zero vendor lock-in.** Prefer standards, open formats, and portable code.
-- **Minimal core.** Push everything else into programmable extensions.
-- **Reliability over novelty.** Tools that hold up in daily use.
-- **Small and focused.** One tool, one job.
-- **Open by default.** Share what's useful; contribute back upstream.
+Canonical, versioned principles (P-001..) live in
+[`principles`](https://github.com/farishan-labs/principles) — source of
+truth. See there for the full list and tiers.
 
 ## Conventions
 
-- Default branch: `main`
 - Security: Dependabot alerts, security updates, dependency graph, and
   secret scanning are enabled by default for new repositories.
 - Prefer small, focused repos over monoliths.
