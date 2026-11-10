@@ -17,6 +17,12 @@ iterate alongside.
   plane. The first thing installed and opened when operating the lab. An
   aggregator, not a replacement: it reuses herdr, pi, opencode, nakama (ahmadrosid), tmux.
 
+- [`gidbams`](https://github.com/farishan-labs/gidbams) — production-ready
+  git-as-a-source-of-truth database engine. Treats a Git repository as the
+  authoritative store; records are plain text files, reviewed via PRs and
+  versioned by commits, queried via a derived SQLite cache and an MCP server.
+  The SSOT layer underneath providers, forager, provider-intel, and others.
+
 ## What lives here
 
 - [`principles`](https://github.com/farishan-labs/principles) — canonical, versioned principles (P-001..P-022) with top/core/extended tiers, format research, and management tooling (render, validate, version). Source of truth for cockpit and every tool. Research-first: each principle is backed by a research doc before it becomes a rule.
