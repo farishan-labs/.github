@@ -4,6 +4,8 @@ Personal lab for reliable, everyday tools — zero vendor lock-in.
 
 ## Flagship
 
+- [`mdview`](https://github.com/farishan-labs/mdview) — native markdown viewer (Python+GTK3+WebKit2, fullscreen borderless, TOC+search). The flagship desktop tool.
+
 - [`gidbams`](https://github.com/farishan-labs/gidbams) — production-ready
   git-as-a-source-of-truth database engine. Treats a Git repository as the
   authoritative store; records are plain text files, reviewed via PRs and
